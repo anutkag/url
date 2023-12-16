@@ -1,0 +1,3 @@
+let url=new URL("http://127.0.0.1:5501/part3/index.html?title=hello")  
+console.log(url.search)
+console.log(url.host)
